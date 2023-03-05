@@ -2,6 +2,9 @@
 
 A web server written in Rust.
 
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/joshjkk/rust-web-server?include_prereleases)
+![GitHub](https://img.shields.io/github/license/joshjkk/rust-web-server)
+
 ## Installation and usage 
 
 Build and run using Cargo, you can optionally use the ```--release``` flag for a significantly smaller executable size and better program speed.
